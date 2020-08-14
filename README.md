@@ -1,7 +1,7 @@
 # MyTodoList in JavaScript
 
 
-MyTodoList page](https://melissa-fruit.github.io/js-datavisualisation-challenge/)
+[MyTodoList page](https://melissa-fruit.github.io/MyTodoList/.)
  
 - duration: `1 days`  
 
